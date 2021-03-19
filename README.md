@@ -7,5 +7,5 @@
 ## I am a Full-Stack Software Developer, eager to learn and keep up with all of the innovation and new technologies coming my way. 
 
 #### 🔭 I’m currently working on a Capstone Project Via Conestoga College -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
-#### 🌱 I’m currently learning more languages, starting with Python and React!
+#### 🌱 I’m currently learning more languages, starting with Python and React
 
