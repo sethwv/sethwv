@@ -4,8 +4,8 @@
     </p>
 </a>
 
-## I am a Full-Stack Software Developer, eager to learn and keep up with all of the innovation and new technologies coming my way. 
+## I am a Software Engineer, always learning and watching all of the innovations coming around. 
 
-#### 🔭 I’m currently working on a Capstone Project Via Conestoga College -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
-#### 🌱 I’m currently learning more languages and technologies, starting with Python and React
+#### 🔭 Check out our Best in Program 2021 Capstone Project -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
+#### 🌱 Learning python, and beginning to work with COBOL
 
