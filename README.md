@@ -7,5 +7,3 @@
 ## I am a Software Engineer, always learning and watching all of the innovations coming around. 
 
 #### 🔭 Check out our Best in Program 2021 Capstone Project -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
-#### 🌱 Learning python, and beginning to work with COBOL
-
