@@ -1,6 +1,6 @@
 <a href="https://swvn.io">
     <p align="center">
-        <img src="https://u.swvn.io/2021/school/Linkedin%20Head.png" width="100%" title="Intro Card" alt="Intro Card">
+        <img src="https://raw.githubusercontent.com/sethwv/sethwv/main/2.png" width="100%" title="Intro Card" alt="Intro Card">
     </p>
 </a>
 
