@@ -4,6 +4,6 @@
     </p>
 </a>
 
-<!--## I am a Software Engineer, always learning and watching all of the innovations coming around.-->
+## I am a Software Engineer, always learning and watching all of the innovations coming around.
 
 #### 🔭 Check out our Best in Program 2021 Capstone Project -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
