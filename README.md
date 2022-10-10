@@ -6,4 +6,4 @@
 
 # Software Engineer
 
-#### 🔭 Check out our Best in Program 2021 Capstone Project -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
+#### 🔭 Check out my *Best in Program* 2021 Capstone Project -  [ArcticThread/Capstone](https://github.com/Arctic-Thread/Capstone)
